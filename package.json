@@ -1,0 +1,22 @@
+{
+  "name": "mjml-playground",
+  "version": "1.0.0",
+  "description": "A project for sending emails using Node.js and MJML",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "npm run build && node dist/index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "mjml": "^4.15.3",
+    "nodemailer": "^6.9.14"
+  },
+  "devDependencies": {
+    "@types/dotenv": "^8.2.0",
+    "@types/mjml": "^4.7.4",
+    "@types/node": "^18.19.44",
+    "@types/nodemailer": "^6.4.15",
+    "typescript": "^5.5.4"
+  }
+}
