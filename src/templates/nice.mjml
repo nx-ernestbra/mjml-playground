@@ -1,0 +1,18 @@
+<mjml>
+    <mj-head>
+        <mj-preview>
+            <!-- TODO Add mail preview -->
+        </mj-preview>
+    </mj-head>
+    <mj-body>
+        <mj-section>
+            <mj-column>
+                <mj-image width="100px"  src="https://picsum.photos/id/237/200/300"> </mj-image>
+                <mj-text >
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                    Dicta explicabo facilis illo nulla quod reiciendis sequi!
+                </mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>

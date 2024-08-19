@@ -1,0 +1,58 @@
+<mjml>
+    <mj-head>
+        <mj-preview>
+            <!-- TODO Add mail preview -->
+        </mj-preview>
+    </mj-head>
+    <mj-body>
+        <!-- Company Header -->
+        <mj-section background-color="#f0f0f0">
+            <mj-column>
+                <mj-text align="center"
+                         font-style="italic"
+                         font-size="20px"
+                         color="#626262">
+                    My Company
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <!-- Image Header -->
+        <mj-section background-color="#f0f0f0">
+            <!-- Left image -->
+            <mj-column>
+                <mj-image width="200px"
+                          src="https://designspell.files.wordpress.com/2012/01/sciolino-paris-bw.jpg" />
+            </mj-column>
+
+            <!-- right paragraph -->
+            <mj-column>
+                <mj-text font-style="italic"
+                         font-size="20px"
+                         font-family="Helvetica Neue"
+                         color="#626262">
+                    Find amazing places
+                </mj-text>
+
+                <mj-text color="#525252">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                    Proin rutrum enim eget magna efficitur, eu semper augue semper.
+                    Aliquam erat volutpat. Cras id dui lectus. Vestibulum sed finibus lectus.
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <!-- Introduction Text -->
+        <mj-section background-color="#fafafa"> </mj-section>
+
+        <!-- 2 columns section -->
+        <mj-section background-color="white"> </mj-section>
+
+        <!-- Icons -->
+        <mj-section background-color="#fbfbfb"> </mj-section>
+
+        <!-- Social icons -->
+        <mj-section background-color="#f0f0f0"> </mj-section>
+
+    </mj-body>
+</mjml>

@@ -28,7 +28,7 @@ export function sendEmail(templateFile: string = 'welcome.mjml') {
 
     // Set up email data
     const mailOptions = {
-        from: '"Example Sender" <sender@example.com>',
+        from: '"Example Sender" <brayce.ernest@amalitech.com>',
         to: 'recipient@example.com',
         subject: 'Hello from Node.js with MJML',
         html: htmlOutput
